@@ -177,8 +177,8 @@ body.dark .navbar{
 }
 
 .about-image img{
-  width:100%;
-  border-radius:20px;
+  width:50%;
+  border-radius:50px;
   box-shadow:0 10px 30px rgba(0,0,0,.15);
 }
 
